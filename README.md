@@ -3,7 +3,7 @@ Weather-based electric generator research repository
 
 ## What is it all about?
 ### A little about global warming
-Earth is warming. Our planet is facing a change that if not stopped, will end human life.
+Earth is warming. Our planet is facing a change that, if not stopped, will end human life.
 
 ### What is this project and why is it so relevant?
 This project is all about making a generator that could use changes in weather to make electricity. No burning, no air pollution, no carbon emission. We could minimise our carbon footprint on this planet. The name is a combination of two words: weather+generator. With this we'd might be able to stop the world from changing so drastically, and leave a better world for the next generation.
