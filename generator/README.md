@@ -20,4 +20,4 @@ We need you to find the best material (or compound) for filling the capsule. Req
 We need you to find a way of creating a mechanism to convert the linear motion from the capsule to as much electricity as possible.
 
 #### Anything else that could help
-If I didn't mention your field and you think you'd mightbe able to help. As said, this is a community project. Publicity is also very important, so feel free to publicise this.
+If I didn't mention your field and you think you'd mightbe able to help. As said, this is a community project. Publicity is also very important, so feel free to publicise this project.
